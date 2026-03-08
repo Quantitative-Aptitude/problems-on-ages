@@ -1,3 +1,3 @@
-# Problems on Ages
+# Problems
 
 * SE-001
